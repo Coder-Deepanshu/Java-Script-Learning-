@@ -37,3 +37,5 @@ console.table([w, z])
 
 // JAVA SCRIPT DATA TYPES:
 // 1. Strings
+const name = "Deepanshu"; // String Declaration
+console.log(name);
