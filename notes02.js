@@ -65,7 +65,7 @@ console.log(anotherName.length)
 // 12. repeat(): ek string ko jitni bar chaho utni bar repeat krke new string bna skte ho
 console.log(anotherText.repeat(3));
 
-// 13. match(): ye string ko ek regular expression ke sath match krne ke liye use hota ha ayr matches array ko return karta ha 
+// 13. match(): ye string ko ek regular expression ke sath match krne ke liye use hota ha ya matches array ko return karta ha 
 let demoText = "My lucky number are 7 and 9";
 let regx = /[0-9]/g; // sare numbers find krne ke liye regex
 console.log(demoText.match(regx));
